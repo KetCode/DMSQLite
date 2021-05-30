@@ -750,7 +750,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Users\jj\Workspace\uninassau\pmob67\projeto2\IonicSQLiteExample\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/kesse/Downloads/IonicSQLiteExample/src/main.ts */"./src/main.ts");
 
 
 /***/ })
